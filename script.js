@@ -7,7 +7,7 @@ if(notes) {
 }
 
 
-addBtn.addEventListener('click' , () => addNewNote('Welcome to SPG Notes'));
+addBtn.addEventListener('click' , () => addNewNote('Welcome to SPG Notes. Click on edit to add your notes.'));
 
 function addNewNote( text = '')
 {
