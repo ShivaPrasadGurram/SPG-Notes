@@ -59,7 +59,7 @@ body {
   background-color: #fff;
   box-shadow: 0 10px 4px rgba(0, 0, 0, 0.1);
   margin: 30px 20px;
-  height: 500px;
+  height: 400px;
   width: 400px;
   position: relative;
   z-index: 1;
@@ -151,5 +151,9 @@ footer a {
   .btns {
     display: flex;
     justify-content: space-between;
+  }
+  .note{
+    height:300px;
+    width:400px;
   }
 }
