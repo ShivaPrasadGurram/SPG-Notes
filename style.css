@@ -63,7 +63,6 @@ body {
   width: 400px;
   position: relative;
   z-index: 1;
-  overflow:scroll;
 }
 
 .note .tools {
@@ -152,9 +151,5 @@ footer a {
   .btns {
     display: flex;
     justify-content: space-between;
-  }
-  .note{
-    height:300px;
-    width:400px;
   }
 }
